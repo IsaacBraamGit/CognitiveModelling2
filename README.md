@@ -1,2 +1,4 @@
-# CognitiveModelling2
-The second assignment of CognitiveModelling
+ccmsuite
+========
+
+Python cognitive modelling suite.  
